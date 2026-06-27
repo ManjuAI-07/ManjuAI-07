@@ -19,9 +19,7 @@
 
 ## 🏆 GitHub Trophies
 
-![<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManjuAI-07&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
-</p>](https://github-profile-trophy.vercel.app/?username=ManjuAI-07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ManjuAI-07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
